@@ -22,7 +22,7 @@
     },
     "extra": {
         "zf": {
-            "config-provider": "Zend\\Expressive\\Authentication\\OAuth2\\ConfigProvider",
+            "config-provider": "Zend\\Expressive\\Authentication\\OAuth2\\ConfigProvider"
         }
     },
     "require": {
